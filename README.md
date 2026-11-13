@@ -492,6 +492,10 @@ npm run build
 npm run vite:php
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/MediaServer/)
+
 ## 📚 Additional Documentation
 
 - [Operations Guide](doc/OPERATIONS.md) – Symbolic linking, scanning, metadata jobs, supported formats
